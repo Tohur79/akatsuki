@@ -1,14 +1,12 @@
 body	{
 	background-color:grey;
 	margin:0;
-	
+	height:1000px;
 	
 }
 
 .con{
-	max-width:1300px;
 	
-	margin:0 auto;
 }
 
 #header {
@@ -36,7 +34,7 @@ body	{
 #nav {
 	float:right;
 	background-color:#2d2f2f;
-	height:748px;
+	height:1050px;
 	width:200px;
 }
 .Navigation{
@@ -45,7 +43,8 @@ body	{
 
 
 #content{
-	height:700px;
+	width:1300px;
+	height:1000px;
 	
 		
 }
