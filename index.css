@@ -1,0 +1,68 @@
+body	{
+	background-color:grey;
+	margin:0;
+	
+	
+}
+
+.con{
+	max-width:1300px;
+	
+	margin:0 auto;
+}
+
+#header {
+	background-color:black;
+	height:100px;
+	line-height:80px;
+}
+#header2 {
+	background-color:black;
+	height:40px;
+	line-height:20px;
+	font-size:24;
+}
+.Title {
+	color:red;
+	padding-left:30px;
+	font-family:sans-serif;
+}
+
+.Title p{
+	color:blue;
+	vertical-align:top;
+}
+
+#nav {
+	float:right;
+	background-color:#2d2f2f;
+	height:748px;
+	width:200px;
+}
+.Navigation{
+	
+}
+
+
+#content{
+	height:700px;
+	
+		
+}
+.Wall{
+	color:rgb(223,223,223);
+	font-size:20;
+	
+}
+.Wall h1{
+	color:yellow;
+}
+
+#footer{
+	height:120px;
+	line-height:100px;
+	background-color:black;
+}
+.About{
+	color:yellow;
+}
